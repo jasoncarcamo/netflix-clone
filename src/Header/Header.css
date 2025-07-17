@@ -1,28 +1,43 @@
-.header {
-  background-color: #111;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 1rem 2rem;
+.netflix-header {
   position: sticky;
   top: 0;
   z-index: 1000;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 0.75rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #111;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 
 .logo {
+  color: #e50914;
   font-size: 2rem;
-  color: red;
-  font-weight: bold;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 0;
+  user-select: none;
 }
 
 .nav-links {
-  list-style: none;
   display: flex;
   gap: 1rem;
 }
 
 .nav-links a {
-  color: white;
+  color: #fff;
   text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #e50914;
 }

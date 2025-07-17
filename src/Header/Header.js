@@ -1,17 +1,23 @@
-import React from 'react';
+import React, { Component } from "react";
 import "./Header.css";
 
-const Header = () => (
-  <header>
-    <h1 title="Netflix Clone">Netflix</h1>
-    <nav aria-label="Main Navigation">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">TV Shows</a></li>
-        <li><a href="#">Movies</a></li>
-      </ul>
-    </nav>
-  </header>
-);
+class Header extends Component {
+  render() {
+    return (
+      <header className="netflix-header" role="banner">
+        <div className="nav-left">
+          <h1 className="logo">NETFLIX</h1>
+          <nav className="nav-links" role="navigation">
+            <a href="#home">Home</a>
+            <a href="#tvshows">TV Shows</a>
+            <a href="#movies">Movies</a>
+            <a href="#new">New & Popular</a>
+            <a href="#mylist">My List</a>
+          </nav>
+        </div>
+      </header>
+    );
+  }
+}
 
 export default Header;

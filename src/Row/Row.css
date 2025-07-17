@@ -1,0 +1,130 @@
+.row {
+  margin: 1rem 0 3rem;
+}
+
+.row h2 {
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #fff;
+  user-select: none;
+}
+
+.row-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.row-posters {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  padding-left: 1rem;
+  gap: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: #e50914 transparent;
+  -ms-overflow-style: none;
+  outline: none;
+}
+
+.row-posters::-webkit-scrollbar {
+  height: 8px;
+}
+
+.row-posters::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.row-posters::-webkit-scrollbar-thumb {
+  background-color: #e50914;
+  border-radius: 4px;
+}
+
+.movie-card {
+  min-width: 150px;
+  flex-shrink: 0;
+  cursor: pointer;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 0 8px rgba(229, 9, 20, 0.7);
+  transition: transform 0.3s ease;
+  user-select: none;
+  background-color: #222;
+  position: relative;
+}
+
+.movie-card:focus,
+.movie-card:hover {
+  outline: none;
+  transform: scale(1.1);
+  box-shadow: 0 0 12px #e50914;
+  z-index: 1;
+}
+
+.movie-card img,
+.movie-preview {
+  width: 100%;
+  display: block;
+  user-select: none;
+  pointer-events: none;
+  border-radius: 6px;
+  height: 225px;
+  object-fit: cover;
+}
+
+.movie-preview {
+  position: relative;
+  z-index: 5;
+}
+
+.movie-info-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(20, 20, 20, 0.85));
+  color: white;
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  user-select: text;
+  border-radius: 0 0 6px 6px;
+}
+
+.movie-title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.movie-details {
+  margin: 0;
+  font-weight: 400;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.scroll-button {
+  background: rgba(20, 20, 20, 0.7);
+  border: none;
+  color: #e50914;
+  font-size: 2rem;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  user-select: none;
+}
+
+.scroll-button.left {
+  left: 0;
+}
+
+.scroll-button.right {
+  right: 0;
+}
