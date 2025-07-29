@@ -12,7 +12,6 @@ class Banner extends Component {
             className="banner-video"
             src={movie.preview}
             autoPlay
-            loop
             muted
             playsInline
           />
