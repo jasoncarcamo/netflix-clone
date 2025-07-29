@@ -4,7 +4,7 @@ export const movieSections = [
       movies: [
         {
             "title": "The Gray Man",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/uJfJCq1h7ZgzWGYuEUBA71NAeKa.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
             "preview": "https://www.youtube.com/embed/BmllggGO4pM",
             "year": 2022,
             "genre": ["Action","Thriller"],
@@ -13,7 +13,7 @@ export const movieSections = [
         },
         {
             "title": "Extraction 2",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
             "preview": "https://www.youtube.com/embed/Y274jZs5s7s",
             "year": 2023,
             "genre": ["Action","Thriller"],
@@ -22,7 +22,7 @@ export const movieSections = [
         },
         {
             "title": "Red Notice",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
             "preview": "https://www.youtube.com/embed/Pj0wz7zu3Ms",
             "year": 2021,
             "genre": ["Action","Comedy"],
@@ -31,7 +31,7 @@ export const movieSections = [
         },
         {
             "title": "Wednesday",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/1w0d6M0jfbKvamcr4NRsozCieEX.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
             "preview": "https://www.youtube.com/embed/Di310WS8zLk",
             "year": 2022,
             "genre": ["Mystery","Fantasy"],
@@ -40,7 +40,7 @@ export const movieSections = [
         },
         {
             "title": "Stranger Things",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
             "preview": "https://www.youtube.com/embed/iKZyYdwS3Wg",
             "year": 2022,
             "genre": ["Sci‑Fi","Horror"],
@@ -49,7 +49,7 @@ export const movieSections = [
         },
         {
             "title": "Bridgerton",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/j6l4rPmQmkn0Us2G0pgG6ciAjX.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/v2TL9tcfsFsFY1wM8rhwiQwo01t.jpg",
             "preview": "https://www.youtube.com/embed/gpv7ayf_tyE",
             "year": 2023,
             "genre": ["Drama","Romance"],
@@ -58,7 +58,7 @@ export const movieSections = [
         },
         {
             "title": "You",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg",
             "preview": "https://www.youtube.com/embed/v99ooSjCVhg",
             "year": 2023,
             "genre": ["Thriller","Crime"],
@@ -67,7 +67,7 @@ export const movieSections = [
         },
         {
             "title": "The Night Agent",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/jlOSWm1IY2KajMarcaIWMc1sNJp.jpg",
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
             "preview": "https://www.youtube.com/embed/YDbnY9Obsfs",
             "year": 2023,
             "genre": ["Thriller","Action"],
@@ -76,8 +76,8 @@ export const movieSections = [
         },
         {
             "title": "Kaleidoscope",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/8rwqPJpOP7NhKDuvvQerqRu3wvd.jpg",
-            "preview": null,
+            "thumbnail": "https://www.themoviedb.org/t/p/w1280/2nXJoSB5Y6R9ne7pjqL7Cs3zqY1.jpg",
+            "preview": "https://www.youtube.com/embed/YbArSoOP8XQ",
             "year": 2023,
             "genre": ["Crime","Drama"],
             "rating": "TV‑MA",
@@ -85,8 +85,8 @@ export const movieSections = [
         },
         {
             "title": "The Witcher",
-            "thumbnail": "https://image.tmdb.org/t/p/w500/e2xppNpyuK0is7b61CP78kaQkxU.jpg",
-            "preview": null,
+            "thumbnail": "https://m.media-amazon.com/images/I/61+ix81a5yL._AC_SL1000_.jpg",
+            "preview": "https://www.youtube.com/embed/ndl1W4ltcmg",
             "year": 2023,
             "genre": ["Fantasy","Drama"],
             "rating": "TV‑MA",
@@ -99,7 +99,7 @@ export const movieSections = [
       movies: [
         {
             title: "Black Panther: Wakanda Forever",
-            thumbnail: "https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
             preview: "https://www.youtube.com/embed/_Z3QKkl1WyM",
             year: 2022,
             genre: ["Action","Adventure","Superhero"],
@@ -108,7 +108,7 @@ export const movieSections = [
         },
         {
             title: "Top Gun: Maverick",
-            thumbnail: "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
             preview: "https://www.youtube.com/embed/qSqVVswa420",
             year: 2022,
             genre: ["Action","Drama"],
@@ -117,7 +117,7 @@ export const movieSections = [
         },
         {
             title: "No Time to Die",
-            thumbnail: "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9tp.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
             preview: "https://www.youtube.com/embed/N_gD9-Oa0fg",
             year: 2021,
             genre: ["Action","Spy"],
@@ -126,7 +126,7 @@ export const movieSections = [
         },
         {
             title: "Guardians of the Galaxy Vol. 3",
-            thumbnail: "https://image.tmdb.org/t/p/w500/5C1b6aG1n4LeI3Eu2q1thFLtU.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
             preview: "https://www.youtube.com/embed/BJeV8HEM1lk",
             year: 2023,
             genre: ["Action","Sci‑Fi"],
@@ -135,8 +135,8 @@ export const movieSections = [
         },
         {
             title: "Jurassic World Dominion",
-            thumbnail: "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
-            preview: "https://www.youtube.com/embed/CHekzSiZjrY",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+            preview: "https://www.youtube.com/embed/fb5ELWi-ekk",
             year: 2022,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -144,8 +144,8 @@ export const movieSections = [
         },
         {
             title: "The Batman",
-            thumbnail: "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-            preview: "https://www.youtube.com/embed/wwMafs_BqY",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            preview: "https://www.youtube.com/embed/mqqft2x_Aa4",
             year: 2022,
             genre: ["Action","Crime"],
             rating: "PG-13",
@@ -153,8 +153,8 @@ export const movieSections = [
         },
         {
             title: "Avatar: The Way of Water",
-            thumbnail: "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-            preview: "https://www.youtube.com/embed/YOXXQWXuUpk",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            preview: "https://www.youtube.com/embed/d9MyW72ELq0",
             year: 2022,
             genre: ["Action","Sci‑Fi"],
             rating: "PG-13",
@@ -162,8 +162,8 @@ export const movieSections = [
         },
         {
             title: "Mission: Impossible – Dead Reckoning Pt. One",
-            thumbnail: "https://image.tmdb.org/t/p/w500/kMcdbminbxrO3ZEROiKG2J0dRop.jpg",
-            preview: "https://www.youtube.com/embed/4NI4IKKP2FQ",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            preview: "https://www.youtube.com/embed/avz06PDqDbM",
             year: 2023,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -171,8 +171,8 @@ export const movieSections = [
         },
         {
             title: "Black Adam",
-            thumbnail: "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-            preview: "https://www.youtube.com/embed/8u3WFoZ7Qn8",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg",
+            preview: "https://www.youtube.com/embed/X0tOpBuYasI",
             year: 2022,
             genre: ["Action","Superhero"],
             rating: "PG-13",
@@ -180,8 +180,8 @@ export const movieSections = [
         },
         {
             title: "Uncharted",
-            thumbnail: "https://image.tmdb.org/t/p/w500/gmYsQGPYm7qKaKpoHw8K2mCbfLM.jpg",
-            preview: "https://www.youtube.com/embed/UnSetMovieID",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+            preview: "https://www.youtube.com/embed/eHp3MbsCbMg",
             year: 2022,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -194,7 +194,7 @@ export const movieSections = [
       movies: [
         {
             title: "Murder Mystery 2",
-            thumbnail: "https://image.tmdb.org/t/p/w500/dGxhFvyNlGE7ZVwV3v1u0wM0h77.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
             preview: "https://www.youtube.com/embed/LM2F56uK0fs",
             year: 2023,
             genre: ["Comedy","Mystery"],
@@ -203,7 +203,7 @@ export const movieSections = [
         },
         {
             title: "The Wrong Missy",
-            thumbnail: "https://image.tmdb.org/t/p/w500/qEM6UqDzn7tAdJ2i2j2XWpfFrtO.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/A2YlIrzypvhS3vTFMcDkG3xLvac.jpg",
             preview: "https://www.youtube.com/embed/2Cwaneq2w-4",
             year: 2020,
             genre: ["Rom‑Com"],
@@ -212,7 +212,7 @@ export const movieSections = [
         },
         {
             title: "Me Time",
-            thumbnail: "https://image.tmdb.org/t/p/w500/mGiq9GKID5iW3Zxy9zNAmAHfBZd.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",
             preview: "https://www.youtube.com/embed/Mmq_NVwLN_g",
             year: 2022,
             genre: ["Buddy Comedy"],
@@ -221,7 +221,7 @@ export const movieSections = [
         },
         {
             title: "Senior Year",
-            thumbnail: "https://image.tmdb.org/t/p/w500/gEgTFGuZcCdE1oNvx0GLb2Zfs5I.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg",
             preview: "https://www.youtube.com/embed/HCtDkpe89aY",
             year: 2022,
             genre: ["Comedy"],
@@ -230,7 +230,7 @@ export const movieSections = [
         },
         {
             title: "Holidate",
-            thumbnail: "https://image.tmdb.org/t/p/w500/1E5xHmG3pMygeEtIxwqrYfEE4YR.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/oXCLSlCRWWHsSSwLJSVIC0DDWsE.jpg",
             preview: "https://www.youtube.com/embed/hxaaAoI57fk",
             year: 2020,
             genre: ["Rom‑Com"],
@@ -239,7 +239,7 @@ export const movieSections = [
         },
         {
             title: "Yes Day",
-            thumbnail: "https://image.tmdb.org/t/p/w500/si0KCQnZfZ4xC6z5h8u8ZAsPPNR.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg",
             preview: "https://www.youtube.com/embed/Y-3Vr8Ut8d0",
             year: 2021,
             genre: ["Family","Comedy"],
@@ -248,7 +248,7 @@ export const movieSections = [
         },
         {
             title: "Moxie",
-            thumbnail: "https://image.tmdb.org/t/p/w500/6pIk6A4Jj9bzy9NTOMRMj2wliyy.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/aLBo1Ca9PggcWY98ItW5ZkdxTuA.jpg",
             preview: "https://www.youtube.com/embed/Sf34qI1hjKU",
             year: 2021,
             genre: ["Teen","Comedy"],
@@ -257,7 +257,7 @@ export const movieSections = [
         },
         {
             title: "The Out‑Laws",
-            thumbnail: "https://image.tmdb.org/t/p/w500/jEYQlpmmIiMrzE69CUiGOVjrnwL.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
             preview: "https://www.youtube.com/embed/R8xepj9wpi4",
             year: 2023,
             genre: ["Comedy","Action"],
@@ -266,8 +266,8 @@ export const movieSections = [
         },
         {
             title: "Murder Mystery",
-            thumbnail: "https://image.tmdb.org/t/p/w500/b4gYVcl8pARWqcXRQ0kJhPQLRB.jpg",
-            preview: "https://www.youtube.com/embed/9IAnki8QDqg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
+            preview: "https://www.youtube.com/embed/5YEVQDr2f3Q",
             year: 2019,
             genre: ["Comedy","Mystery"],
             rating: "PG-13",
@@ -275,8 +275,8 @@ export const movieSections = [
         },
         {
             title: "The Bubble",
-            thumbnail: "https://image.tmdb.org/t/p/w500/kpIwb2i0QzastcKuvXuDtefRShv.jpg",
-            preview: "https://www.youtube.com/embed/qT2nLwLaCYc",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+            preview: "https://youtube.com/embed/TRTZja6IyrM",
             year: 2022,
             genre: ["Satire","Comedy"],
             rating: "R",
@@ -289,8 +289,8 @@ export const movieSections = [
       movies: [
         {
             title: "Black Panther: Wakanda Forever",
-            thumbnail: "https://image.tmdb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
-            preview: "https://www.youtube.com/embed/_Z3QKkl1WyM",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+            preview: "https://www.youtube.com/embed/_Z3QKkl1WyM",
             year: 2022,
             genre: ["Action","Adventure","Superhero"],
             rating: "PG-13",
@@ -298,8 +298,8 @@ export const movieSections = [
         },
         {
             title: "Top Gun: Maverick",
-            thumbnail: "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
-            preview: "https://www.youtube.com/embed/qSqVVswa420",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            preview: "https://www.youtube.com/embed/qSqVVswa420",
             year: 2022,
             genre: ["Action","Drama"],
             rating: "PG-13",
@@ -307,8 +307,8 @@ export const movieSections = [
         },
         {
             title: "No Time to Die",
-            thumbnail: "https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9tp.jpg",
-            preview: "https://www.youtube.com/embed/N_gD9-Oa0fg",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+            preview: "https://www.youtube.com/embed/N_gD9-Oa0fg",
             year: 2021,
             genre: ["Action","Spy"],
             rating: "PG-13",
@@ -316,8 +316,8 @@ export const movieSections = [
         },
         {
             title: "Guardians of the Galaxy Vol. 3",
-            thumbnail: "https://image.tmdb.org/t/p/w500/5C1b6aG1n4LeI3Eu2q1thFLtU.jpg",
-            preview: "https://www.youtube.com/embed/BJeV8HEM1lk",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            preview: "https://www.youtube.com/embed/BJeV8HEM1lk",
             year: 2023,
             genre: ["Action","Sci‑Fi"],
             rating: "PG-13",
@@ -325,8 +325,8 @@ export const movieSections = [
         },
         {
             title: "Jurassic World Dominion",
-            thumbnail: "https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",
-            preview: "https://www.youtube.com/embed/CHekzSiZjrY",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+            preview: "https://www.youtube.com/embed/fb5ELWi-ekk",
             year: 2022,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -334,8 +334,8 @@ export const movieSections = [
         },
         {
             title: "The Batman",
-            thumbnail: "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-            preview: "https://www.youtube.com/embed/wwMafs_BqY",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+            preview: "https://www.youtube.com/embed/mqqft2x_Aa4",
             year: 2022,
             genre: ["Action","Crime"],
             rating: "PG-13",
@@ -343,8 +343,8 @@ export const movieSections = [
         },
         {
             title: "Avatar: The Way of Water",
-            thumbnail: "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-            preview: "https://www.youtube.com/embed/YOXXQWXuUpk",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+            preview: "https://www.youtube.com/embed/d9MyW72ELq0",
             year: 2022,
             genre: ["Action","Sci‑Fi"],
             rating: "PG-13",
@@ -352,8 +352,8 @@ export const movieSections = [
         },
         {
             title: "Mission: Impossible – Dead Reckoning Pt. One",
-            thumbnail: "https://image.tmdb.org/t/p/w500/kMcdbminbxrO3ZEROiKG2J0dRop.jpg",
-            preview: "https://www.youtube.com/embed/4NI4IKKP2FQ",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+            preview: "https://www.youtube.com/embed/avz06PDqDbM",
             year: 2023,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -361,8 +361,8 @@ export const movieSections = [
         },
         {
             title: "Black Adam",
-            thumbnail: "https://image.tmdb.org/t/p/w500/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-            preview: "https://www.youtube.com/embed/8u3WFoZ7Qn8",  // Official Trailer ID
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg",
+            preview: "https://www.youtube.com/embed/X0tOpBuYasI",
             year: 2022,
             genre: ["Action","Superhero"],
             rating: "PG-13",
@@ -370,8 +370,8 @@ export const movieSections = [
         },
         {
             title: "Uncharted",
-            thumbnail: "https://image.tmdb.org/t/p/w500/gmYsQGPYm7qKaKpoHw8K2mCbfLM.jpg",
-            preview: "https://www.youtube.com/embed/eHp3MbsCbMg",  // Official Trailer ID :contentReference[oaicite:0]{index=0}
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+            preview: "https://www.youtube.com/embed/eHp3MbsCbMg",
             year: 2022,
             genre: ["Action","Adventure"],
             rating: "PG-13",
@@ -384,7 +384,7 @@ export const movieSections = [
       movies: [
         {
         title: "Smile",
-        thumbnail: "https://image.tmdb.org/t/p/w500/jVYZ6yG5KDxj3BYtbPyrUDnUwfY.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
         preview: "https://www.youtube.com/embed/BcDK7lkzzsU",
         year: 2022,
         genre: ["Horror","Thriller"],
@@ -393,7 +393,7 @@ export const movieSections = [
         },
         {
         title: "The Black Phone",
-        thumbnail: "https://image.tmdb.org/t/p/w500/qrmIYZNfJ5PYvQEIKNJ2OJRaYR6.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
         preview: "https://www.youtube.com/embed/3eGP6im8AZA",
         year: 2022,
         genre: ["Horror","Supernatural"],
@@ -402,7 +402,7 @@ export const movieSections = [
         },
         {
         title: "X",
-        thumbnail: "https://image.tmdb.org/t/p/w500/l8fb8fiyyCwTL8fiwW7vS0rjN4X.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
         preview: "https://www.youtube.com/embed/Awg3cWuHfoc",
         year: 2022,
         genre: ["Horror","Slasher"],
@@ -411,7 +411,7 @@ export const movieSections = [
         },
         {
         title: "Barbarian",
-        thumbnail: "https://image.tmdb.org/t/p/w500/blqtNIjir8jcaoBP66AuctkGwFA.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
         preview: "https://www.youtube.com/embed/Dr89pmKrqkI",
         year: 2022,
         genre: ["Horror","Thriller"],
@@ -420,7 +420,7 @@ export const movieSections = [
         },
         {
         title: "Nope",
-        thumbnail: "https://image.tmdb.org/t/p/w500/AcKVlWaNVVVFQwq4LITKbG5JD5S.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
         preview: "https://www.youtube.com/embed/In8fuzj3gck",
         year: 2022,
         genre: ["Horror","Sci‑Fi"],
@@ -429,7 +429,7 @@ export const movieSections = [
         },
         {
         title: "Scream VI",
-        thumbnail: "https://image.tmdb.org/t/p/w500/akudOqDgdashQhjiSqpRRl4EKhZ.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
         preview: "https://www.youtube.com/embed/h74AXqw4Opc",
         year: 2023,
         genre: ["Horror","Slasher"],
@@ -438,7 +438,7 @@ export const movieSections = [
         },
         {
         title: "Talk to Me",
-        thumbnail: "https://image.tmdb.org/t/p/w500/lwV7DZqjZFrPbW6aWNh0sy6sLl2.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
         preview: "https://www.youtube.com/embed/aLAKJu9aJys",
         year: 2023,
         genre: ["Horror","Supernatural"],
@@ -447,7 +447,7 @@ export const movieSections = [
         },
         {
         title: "Evil Dead Rise",
-        thumbnail: "https://image.tmdb.org/t/p/w500/iMRAwquJ2zHVRwVAB4fyX7k9iDL.jpg",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
         preview: "https://www.youtube.com/embed/BqQNO7BzN08",
         year: 2023,
         genre: ["Horror","Supernatural"],
@@ -456,8 +456,8 @@ export const movieSections = [
         },
         {
         title: "M3GAN",
-        thumbnail: "https://image.tmdb.org/t/p/w500/AoWY1gkcNzabh229Icboa1Ff0BM.jpg",
-        preview: "https://www.youtube.com/embed/Kz9YV_5eA9c",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+        preview: "https://www.youtube.com/embed/BRb4U99OU80",
         year: 2023,
         genre: ["Horror","Sci‑Fi"],
         rating: "R",
@@ -465,8 +465,8 @@ export const movieSections = [
         },
         {
         title: "The Last Voyage of the Demeter",
-        thumbnail: "https://image.tmdb.org/t/p/w500/8e5xb5V7WEog7SKLsWZna1Cvp4O.jpg",
-        preview: "https://www.youtube.com/embed/guessID",
+        thumbnail: "https://www.themoviedb.org/t/p/w1280/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+        preview: "https://www.youtube.com/embed/eQUBghzpgzA",
         year: 2023,
         genre: ["Horror","Supernatural"],
         rating: "R",
@@ -479,7 +479,7 @@ export const movieSections = [
       movies: [
         {
             title: "Our Great National Parks",
-            thumbnail: "https://image.tmdb.org/t/p/w500/zDKEBm6DGj5mUd0pzKEFPknF9Ve.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/3ny9qqgIM2M6LgfLDAXujTOTmBO.jpg",
             preview: "https://www.youtube.com/embed/S0z3moH4570",
             year: 2022,
             genre: ["Documentary", "Nature"],
@@ -488,7 +488,7 @@ export const movieSections = [
         },
         {
             title: "The Tinder Swindler",
-            thumbnail: "https://image.tmdb.org/t/p/w500/1uihuQjwOpa82VQGbV40GQX3GOV.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/iLUSFjdavIf0SrP7ldoQ1xomQVC.jpg",
             preview: "https://www.youtube.com/embed/pKXzxzotBo4",
             year: 2022,
             genre: ["Documentary", "Crime"],
@@ -497,7 +497,7 @@ export const movieSections = [
         },
         {
             title: "My Octopus Teacher",
-            thumbnail: "https://image.tmdb.org/t/p/w500/cKdJqWz9bSv1ki3b2WVUPACk0MY.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
             preview: "https://www.youtube.com/embed/3s0LTDhqe5A",
             year: 2020,
             genre: ["Documentary", "Nature"],
@@ -506,7 +506,7 @@ export const movieSections = [
         },
         {
             title: "13th",
-            thumbnail: "https://image.tmdb.org/t/p/w500/s0S3i054AtkoNb0vQXd8DOoWYgQ.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
             preview: "https://www.youtube.com/embed/K6IXQbXPO3I",
             year: 2016,
             genre: ["Documentary", "Society"],
@@ -515,7 +515,7 @@ export const movieSections = [
         },
         {
             title: "The Social Dilemma",
-            thumbnail: "https://image.tmdb.org/t/p/w500/aeeAqcdipcoa2DEgW3N5ElNlU6A.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/jdmagxKK7g2rPkdltC7Kga2MBbp.jpg",
             preview: "https://www.youtube.com/embed/uaaC57tcci0",
             year: 2020,
             genre: ["Documentary", "Technology"],
@@ -524,7 +524,7 @@ export const movieSections = [
         },
         {
             title: "Fyre",
-            thumbnail: "https://image.tmdb.org/t/p/w500/zsVuhwILyTgPh5vRvNpvYb7gIid.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
             preview: "https://www.youtube.com/embed/uZ0KNVU2fV0",
             year: 2019,
             genre: ["Documentary", "Crime"],
@@ -533,7 +533,7 @@ export const movieSections = [
         },
         {
             title: "Knock Down the House",
-            thumbnail: "https://image.tmdb.org/t/p/w500/5BUcnSBq6vxpRhgM5HGSA44esw1.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/uAfixuZIFVbWIsWytzROJDY85D7.jpg",
             preview: "https://www.youtube.com/embed/_wGZc8ZjFY4",
             year: 2019,
             genre: ["Documentary", "Politics"],
@@ -542,7 +542,7 @@ export const movieSections = [
         },
         {
             title: "Tiger King",
-            thumbnail: "https://image.tmdb.org/t/p/w500/4U9G4YwTlIEbYARvbBXuZ1I7mUr.jpg",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/dXQCEjVth8P8L47XIsoRt0oL8Gw.jpg",
             preview: "https://www.youtube.com/embed/acTdxsoa428",
             year: 2020,
             genre: ["Documentary", "Crime"],
@@ -551,8 +551,8 @@ export const movieSections = [
         },
         {
             title: "Won't You Be My Neighbor?",
-            thumbnail: "https://image.tmdb.org/t/p/w500/qlTjVFLMNdQhVZyqZz9Xf3l0J6F.jpg",
-            preview: "https://www.youtube.com/embed/-Vlr3okwix0",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+            preview: "https://www.youtube.com/embed/FhwktRDG_aQ",
             year: 2018,
             genre: ["Documentary", "Biography"],
             rating: "PG‑13",
@@ -560,8 +560,8 @@ export const movieSections = [
         },
         {
             title: "Seaspiracy",
-            thumbnail: "https://image.tmdb.org/t/p/w500/7rps5dhAkYaP5anpwKsw35R9E1F.jpg",
-            preview: "https://www.youtube.com/embed/6uVe2w8u1zo",
+            thumbnail: "https://www.themoviedb.org/t/p/w1280/iFNri0fwn1WfCoxf3H3v1z8dCm4.jpg",
+            preview: "https://www.youtube.com/embed/1Q5CXN7soQg",
             year: 2021,
             genre: ["Documentary", "Environment"],
             rating: "TV‑MA",
