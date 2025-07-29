@@ -58,7 +58,7 @@ class Row extends Component {
                 {hoveredIndex === idx && movie.preview ? (
                   <iframe
                     allow="autoplay"
-                    frameborder="0" 
+                    frameBorder="0" 
                     allowfullscreen
                     width="100%"
                     height="100%"
